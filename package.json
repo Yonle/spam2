@@ -1,0 +1,23 @@
+{
+  "name": "spam2",
+  "version": "2.0.0",
+  "description": "Version 2 of Yonle/spam Repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yonle/spam2.git"
+  },
+  "keywords": [
+    "spam",
+    "spamfile"
+  ],
+  "author": "Yonle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yonle/spam2/issues"
+  },
+  "homepage": "https://github.com/Yonle/spam2#readme"
+}
